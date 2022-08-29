@@ -116,6 +116,19 @@ public class MensaTest {
   }
 
 
+  /**
+   * 
+   * Test for the NewTestCase_ID743859 method.
+   * 
+   */
+  @Test
+  public void testNewTestCase_ID743859() {
+    MiniClientCoverage c = new MiniClientCoverage(mainPath);
+    c.setConnectorEndpoint(connector.getHttpEndpoint());
+    
+    
+    
+  }
 
 
 
